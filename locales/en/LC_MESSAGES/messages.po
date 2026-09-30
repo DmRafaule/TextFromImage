@@ -1,0 +1,61 @@
+# English translations for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-30 08:25+0300\n"
+"PO-Revision-Date: 2026-09-30 08:10+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: main.py:32
+msgid "Автор <b>TimTheWebmaster</b>"
+msgstr "Author <b>TimTheWebmaster</b>"
+
+#: main.py:33
+msgid ""
+"\n"
+"Это экстрактор текста из изображений.\n"
+"Просто отправь изображение в чат и бот вернёт весь текст обнаруженный на "
+"изображении.\n"
+"Поддерживаемые форматы изображений:\n"
+" * <b>PNG</b>\n"
+" * <b>JPEG</b>\n"
+" * <b>TIFF</b>\n"
+" * <b>GIF</b>\n"
+" * <b>WebP</b>\n"
+" * <b>BMP</b>\n"
+" * <b>PNM</b>\n"
+"    "
+msgstr ""
+"\n"
+"This is an extractor of text from an image.\n"
+"Just send a image in chat and the bot will send back all detected text.\n"
+" Supported image formats:\n"
+" * <b>PNG</b>\n"
+" * <b>JPEG</b>\n"
+" * <b>TIFF</b>\n"
+" * <b>GIF</b>\n"
+" * <b>WebP</b>\n"
+" * <b>BMP</b>\n"
+" * <b>PNM</b>\n"
+"    "
+
+#: main.py:45
+msgid "Так же поддерживает <b>inline</b>-режим"
+msgstr "Also supports <b>inline</b> mode"
+
+#: main.py:46
+msgid "Ещё больше ботов на @timthewebmaster"
+msgstr "More bots on @timthewebmaster"
+
