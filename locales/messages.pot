@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-30 08:25+0300\n"
+"POT-Creation-Date: 2026-09-30 11:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,16 +17,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: main.py:32
+#: main.py:47
+msgid "Увы не смог извлечь текст."
+msgstr ""
+
+#: main.py:51
 msgid "Автор <b>TimTheWebmaster</b>"
 msgstr ""
 
-#: main.py:33
+#: main.py:52
 msgid ""
 "\n"
 "Это экстрактор текста из изображений.\n"
 "Просто отправь изображение в чат и бот вернёт весь текст обнаруженный на "
 "изображении.\n"
+"Поддерживает кириллицу и латиницу\n"
 "Поддерживаемые форматы изображений:\n"
 " * <b>PNG</b>\n"
 " * <b>JPEG</b>\n"
@@ -38,11 +43,11 @@ msgid ""
 "    "
 msgstr ""
 
-#: main.py:45
+#: main.py:65
 msgid "Так же поддерживает <b>inline</b>-режим"
 msgstr ""
 
-#: main.py:46
+#: main.py:66
 msgid "Ещё больше ботов на @timthewebmaster"
 msgstr ""
 
