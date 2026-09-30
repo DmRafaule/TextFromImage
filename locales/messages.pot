@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-30 11:05+0300\n"
+"POT-Creation-Date: 2026-09-30 13:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,10 +44,6 @@ msgid ""
 msgstr ""
 
 #: main.py:65
-msgid "Так же поддерживает <b>inline</b>-режим"
-msgstr ""
-
-#: main.py:66
 msgid "Ещё больше ботов на @timthewebmaster"
 msgstr ""
 

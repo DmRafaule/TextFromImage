@@ -62,7 +62,6 @@ async def help(message: Message):
  * <b>BMP</b>
  * <b>PNM</b>
     """))
-    await message.answer(_("Так же поддерживает <b>inline</b>-режим"))
     await message.answer(_("Ещё больше ботов на @timthewebmaster"))
 
 async def main() -> None:
